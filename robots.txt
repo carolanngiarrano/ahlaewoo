@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeguangaye.bitfragment.net/sitemap.xml
